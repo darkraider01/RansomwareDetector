@@ -1,0 +1,17 @@
+{
+  "name": "ransomwaredetection",
+  "version": "1.0.0",
+  "description": "This system combines blockchain technology with local file monitoring to detect and respond to potential ransomware activity.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "brandybuck",
+  "license": "ISC",
+  "devDependencies": {
+    "ganache-cli": "^6.12.2"
+  }
+}
