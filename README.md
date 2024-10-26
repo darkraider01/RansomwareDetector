@@ -46,11 +46,9 @@ This system combines blockchain technology with local file monitoring to detect 
 Update config.py with your settings
 Set up email notifications
 Configure blockchain integration
-   ```bash
-   python -m detector.main
-
-
-
+```bash 
+python -m detector.main
+```
 Security Notes
 
 This system should be used as part of a comprehensive security strategy
